@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MainMenu/Scenes/Menu.unity
+    guid: 5d57b26e39630a14b9a064cc65e73730
+  - enabled: 1
+    path: Assets/SubGames/AA/Games/AA/Scenes/AA.unity
+    guid: c412f9a61c3fc0743b7094b541d971fd
+  - enabled: 1
+    path: Assets/SubGames/TilesMatch/Scenes/TilesMatch.unity
+    guid: cd2029058cedf574c90a2654922a5dd5
+  - enabled: 1
+    path: Assets/SubGames/MergeBall/Scenes/MergeBall.unity
+    guid: ac54e21d5fd9d424cb44f635ac6a3dab
+  - enabled: 1
+    path: Assets/SubGames/Rock Blaster/Scene/RockBlaster.unity
+    guid: 40ae7b3e28652564799a5a43d870bdf2
+  - enabled: 0
+    path: Assets/SubGames/TilesBreak/2021/TilesBreakNew.unity
+    guid: a0f3aedcac883134a99743c7c90ae680
+  - enabled: 1
+    path: Assets/SubGames/FreeSwipe/Scene/FreeSwipe.unity
+    guid: e95fcd908eb34e9459be2c927f89b319
+  - enabled: 1
+    path: Assets/SubGames/Fluffy Underwater/Scene/Fluffy_UnderWater.unity
+    guid: c7529f8dec02c8c46b7632afd6d6f791
+  m_configObjects: {}
