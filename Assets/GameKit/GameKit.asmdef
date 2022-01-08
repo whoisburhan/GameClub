@@ -1,0 +1,21 @@
+{
+    "name": "GameKit",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b4318b6f3695442c4983c360248781db",
+        "GUID:b649415412a3d4e8a83df256b07478bb",
+        "GUID:4139e191aa32f459e9eb2e331225ad7e",
+        "GUID:ac145e6b8c6034cdbadc8c6e26aedbcf",
+        "GUID:1e8e55397bd004beaba78a667566665f",
+        "GUID:4307f53044263cf4b835bd812fc161a4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
