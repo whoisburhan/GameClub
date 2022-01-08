@@ -1,0 +1,16 @@
+{
+    "name": "TilesBreak",
+    "rootNamespace": "",
+    "references": [
+        "GUID:5234081c362a40342b9ecee8fcb3ce3f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
